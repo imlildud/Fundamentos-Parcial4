@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class main {
+public class ArrayEquals {
     public static void main(String[] args) {
 
         int array[] = {2, 2, 1, 8, 3, 2, 2, 4, 2, 5};
