@@ -1,4 +1,4 @@
-public class main {
+public class ArrayInvertido {
     public static void main(String[] args) {
 
         int[] array1 = new int[6];
