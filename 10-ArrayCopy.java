@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class arreglocopy {
+public class ArrayCopy {
     public static void main(String[] args) {
 
         int array[] = {2, 2, 1, 8, 3, 2, 2, 4, 2, 5};
