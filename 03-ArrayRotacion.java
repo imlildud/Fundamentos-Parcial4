@@ -1,4 +1,4 @@
-public class main {
+public class ArrayRotacion {
     public static void main(String[] args) {
 
         Double[] array = new Double[17];
