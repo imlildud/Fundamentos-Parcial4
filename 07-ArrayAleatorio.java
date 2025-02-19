@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class main {
+public class ArrayAleatorio {
     public static void main(String[] args) {
 
         String tecladolim = JOptionPane.showInputDialog("Introduce la cantidad de numeros a entregar");
