@@ -44,7 +44,7 @@ public class CodificadorDesencriptador {
                 case 2:
                     try {
                         String encriptado = JOptionPane.showInputDialog("Introduzca la encriptacion y se encontrara la contraseña");
-                        FileReader file = new FileReader("C:\\Users\\leo10\\OneDrive\\Documentos\\Code\\Uni\\diccionario.txt");
+                        FileReader file = new FileReader("ruta");
                         
                         if(file.ready()){
                             BufferedReader lector = new BufferedReader(file);
