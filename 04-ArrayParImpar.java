@@ -1,4 +1,4 @@
-public class main {
+public class ArrayParImpar {
     public static void main(String[] args) {
 
         Double[] array = new Double[9];
