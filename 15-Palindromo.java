@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class main {
+public class Palindromo {
     public static void main(String[] args) {
 
         String texto = JOptionPane.showInputDialog("Introduzca un texto y se detectara si es palindromo o no");
