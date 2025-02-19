@@ -1,4 +1,4 @@
-public class main {
+public class ArrayOperaciones2 {
     public static void main(String[] args) {
 
         int[] numero = {10, 11, 12, 13, 14, 15, 16, 17, 10, 14, 15};
