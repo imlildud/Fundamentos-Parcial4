@@ -4,7 +4,7 @@ import java.io.FileReader;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
-public class main {
+public class CodificadorDesencriptador {
     public static void main(String[] args) {
         int menu = 0;
         String contra = null;
