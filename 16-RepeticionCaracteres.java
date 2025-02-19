@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class main {
+public class RepeticionCaracteres {
     public static void main(String[] args) {
 
         String lector = JOptionPane.showInputDialog("Introduzca una frase");
