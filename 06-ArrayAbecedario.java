@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class main {
+public class ArrayAbecedario {
     public static void main(String[] args) {
 
         char[] id = new char[27];
